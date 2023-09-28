@@ -20,7 +20,7 @@ My journey began at Northeastern University, class of '25, where I am working to
 ⚙️ **Tech Toolbox**:
 Python and SQL are my trusty companions. I wield them to create advanced machine learning models and innovative metrics like xRV (Barrel Dependent Expected Run Value). My work bridges the gap between theory and on-field excellence.
 
-🧩 **Puzzle Solver**:
+🔓 **Puzzle Solver**:
 In the world of baseball, I'm the puzzle solver. I've developed MLB and NPB pitch graders, fine-tuned with a 5-Fold Cross-Validated R2 score between 0.03 and 0.05. My expertise lies in predicting pitch run values, making every pitch count. Even more-so, I scrutinize my own models to avoid common mistakes such as over fitting.
 
 📊 **Markov Chain Maverick**:

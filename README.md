@@ -1,7 +1,7 @@
 # 📊 **Reece Calvin - Baseball Data Analyst**
 
 🏢 **Past Position**: 
-## Data Analyst at Hiroshima Carp    (Jul. 2023 - Dec. 2023)
+### Data Analyst at Hiroshima Carp    (Jul. 2023 - Dec. 2023)
 
 •Introduced a data-driven approach to optimizing player performance and strategic decision-making
 
@@ -11,7 +11,7 @@
 
 •Helped in on-field strategy such as bunt and lineup decisions and created an NPB Stuff+ model
 
-## Team Manager and Analyst at Northeastern Huskies Baseball    (Sept. 2021 - Present)
+### Team Manager and Analyst at Northeastern Huskies Baseball    (Sept. 2021 - Present)
 
 •Assisted coaches and athletics staff with practice and game day operations
 

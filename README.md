@@ -1,7 +1,7 @@
 # 📊 **Reece Calvin - Baseball Data Analyst**
 
 🏢 **Past Position**: 
-####Data Analyst at Hiroshima Carp    (Jul. 2023 - Dec. 2023)
+#### Data Analyst at Hiroshima Carp    (Jul. 2023 - Dec. 2023)
 
 •Introduced a data-driven approach to optimizing player performance and strategic decision-making
 

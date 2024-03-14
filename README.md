@@ -49,34 +49,35 @@
 
 •Plate DisciplineoMethodology:
 
-  Pitch Score = (Swing Prob.) * (Swing RV) + (Strike Prob.) * (Strike RV) + (Ball Prob.) * (Ball RV)
+    Pitch Score = (Swing Prob.) * (Swing RV) + (Strike Prob.) * (Strike RV) + (Ball Prob.) * (Ball RV)
   
-  Take Score = (Strike Prob) * (Strike RV) + (Ball Prob.) * (Ball RV)
+    Take Score = (Strike Prob) * (Strike RV) + (Ball Prob.) * (Ball RV)
   
   If the player takes pitch:
   
       Swing Score = Take Score — Pitch Score
-  If t
-  he player swings:
+      
+  If the player swings:
   
       Swing Score = Swing RV — Pitch Score
 •Power
 
+    Predicted bat speed using exit velocity over expected
 
-  Predicted bat speed using exit velocity over expected
-•C
-ontacto
+•Contact
 
-  Contact over expectedoOnly evaluated swings
+    Contact over expected
+    
+  Only evaluated swings
   
   Binary contact or no contact
 
 •Speed
 
-  Home to first time
+    Home to first time
 
 Tool Based wOBA
 
-  Linear regression using tools, 2022 grade had .18 R2 to true 2023 wOBA
+    Linear regression using tools, 2022 grade had .18 R2 to true 2023 wOBA
   
-    Outperformed xwOBA and wOBA
+  Outperformed xwOBA and wOBA at predicting fututre wOBA

@@ -47,7 +47,7 @@
 
 ### Statcast Based Hitter Tools (Python/Jupyter Notebook)    (Nov. 2023 – Nov. 2023)
 
-•Plate DisciplineoMethodology:
+#### Plate DisciplineoMethodology:
 
     Pitch Score = (Swing Prob.) * (Swing RV) + (Strike Prob.) * (Strike RV) + (Ball Prob.) * (Ball RV)
   
@@ -60,11 +60,11 @@
   If the player swings:
   
       Swing Score = Swing RV — Pitch Score
-•Power
+#### Power
 
     Predicted bat speed using exit velocity over expected
 
-•Contact
+#### Contact
 
     Contact over expected
     
@@ -72,11 +72,11 @@
   
   Binary contact or no contact
 
-•Speed
+#### Speed
 
     Home to first time
 
-Tool Based wOBA
+#### Tool Based wOBA
 
     Linear regression using tools, 2022 grade had .18 R2 to true 2023 wOBA
   

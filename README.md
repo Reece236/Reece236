@@ -1,7 +1,7 @@
 # 📊 **Reece Calvin - Baseball Data Analyst**
 
 🏢 **Past Position**: 
-#### Data Analyst at Hiroshima Carp    (Jul. 2023 - Dec. 2023)
+## Data Analyst at Hiroshima Carp    (Jul. 2023 - Dec. 2023)
 
 •Introduced a data-driven approach to optimizing player performance and strategic decision-making
 
@@ -11,7 +11,7 @@
 
 •Helped in on-field strategy such as bunt and lineup decisions and created an NPB Stuff+ model
 
-#### Team Manager and Analyst at Northeastern Huskies Baseball    (Sept. 2021 - Present)
+## Team Manager and Analyst at Northeastern Huskies Baseball    (Sept. 2021 - Present)
 
 •Assisted coaches and athletics staff with practice and game day operations
 
@@ -19,9 +19,9 @@
 
 •Created a college Stuff+ model
 
-### PROJECTS
+## PROJECTS
 
-#### MLB Pitch Grader (Python/Jupyter Notebook)    (Dec. 2022 – Jun. 2023)
+### MLB Pitch Grader (Python/Jupyter Notebook)    (Dec. 2022 – Jun. 2023)
 
 •Created expected run value by calculating average run value of pitch result, independent of count
 
@@ -32,7 +32,7 @@
 •Resulted in a positive R2
 
 
-#### Lineup Simulator (Python/PyCharm)    (Sep. 2021 – Apr. 2024)
+### Lineup Simulator (Python/PyCharm)    (Sep. 2021 – Apr. 2024)
 
 •Created a classification model to predict ball in play outcomes
 
@@ -45,7 +45,7 @@
 •O/U accuracy of 56% and correlation of 17% to real scores
 
 
-#### Statcast Based Hitter Tools (Python/Jupyter Notebook)    (Nov. 2023 – Nov. 2023)
+### Statcast Based Hitter Tools (Python/Jupyter Notebook)    (Nov. 2023 – Nov. 2023)
 
 •Plate DisciplineoMethodology:
 

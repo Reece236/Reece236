@@ -32,7 +32,7 @@
 •Resulted in a positive R2
 
 
-### [Lineup Simulator (Python/PyCharm)    (Sep. 2021 – Apr. 2024) | https://github.com/Reece236/MLB_Sim]
+### [Lineup Simulator (Python/PyCharm)    (Sep. 2021 – Apr. 2024)](https://github.com/Reece236/MLB_Sim)
 
 •Created a classification model to predict ball in play outcomes
 

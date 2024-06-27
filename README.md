@@ -1,5 +1,8 @@
 # 📊 **Reece Calvin - Baseball Data Analyst**
 
+## 🏢 **Current Position**: 
+### Data Analyst at Volt Intelligence    (2024)
+
 ## 🏢 **Past Position**: 
 ### Data Analyst at Hiroshima Carp    (Jul. 2023 - Dec. 2023)
 

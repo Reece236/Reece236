@@ -2,6 +2,8 @@
 
 ## 🏢 **Current Position**: 
 
+### Quantative Analyst Associate at Philidelphia Phillies    (2024)
+
 ## 🏢 **Past Position**: 
 ### Data Analyst at Volt Intelligence    (2024)
 

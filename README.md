@@ -1,10 +1,12 @@
 # 📊 **Reece Calvin - Baseball Data Analyst**
 
 ## 🏢 **Current Position**: 
-
-### Quantative Analyst Associate at Philidelphia Phillies    (2024)
+### Sutdent at Northeastern University
+Graduation June 2025
 
 ## 🏢 **Past Position**: 
+### Quantative Analyst Associate at Philidelphia Phillies    (2024)
+
 ### Data Analyst at Volt Intelligence    (2024)
 
 ### Data Analyst at Hiroshima Carp    (Jul. 2023 - Dec. 2023)
